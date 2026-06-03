@@ -1,0 +1,6 @@
+.env
+attendance.csv
+temp.jpg
+__pycache__/
+known_faces/
+shane.jpg
